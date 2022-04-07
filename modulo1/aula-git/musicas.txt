@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Walk in the Sun - Danny Jones
 Believe - Yellowcard
 Someone you loved - Lewis Capaldi
@@ -8,3 +9,15 @@ Flashlight
 All I Want - Kodaline
 Nas Aguas - Criolo
 Paciencia - Lenine
+=======
+Walk In the Sun
+Dance Monkey
+Believe
+Someone you Loved
+Start Wearing Purple
+Nas Aguas
+All I want
+Paciencia
+Closer
+Flashlight
+>>>>>>> git-4
